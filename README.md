@@ -3,7 +3,7 @@
 ### 👩🏻 About me
 <div>
 <p>
-I'm a FullStack Developer, I live in Brazil and I'm interested in technology and games. I am currently studying a postgraduate course in Program Analysis and Development. I work with Magento e-commerce, VTEX, NuvemShop, Loja Integra, Wordpress, SEO and web development for over 10 years. I love JavaScript, PHP, Cloud Services and Games.
+I'm a FullStack Developer, I live in Brazil and I'm interested in technology and games. I am currently studying a postgraduate course in Program Analysis and Development. I work with Magento e-commerce, VTEX, NuvemShop, Loja Integrada, Wordpress, SEO and web development for over 10 years. I love JavaScript, PHP, Cloud Services and Games.
   <p/>
   <div/>
   
