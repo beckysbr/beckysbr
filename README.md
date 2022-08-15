@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi, I'm Beckys! Welcome to my GitHub.👋
 
-<!--
-**beckysbr/beckysbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩🏻 About me
+<div>
+<p>
+I'm a FullStack Developer, I live in Brazil and I'm interested in technology and games. I am currently studying a postgraduate course in Program Analysis and Development. I work with Magento e-commerce, VTEX, NuvemShop, Loja Integrada, Wordpress, SEO and web development for over 10 years. I love JavaScript, PHP, Cloud Services and Games.
+  <p/>
+  <div/>
+  
+### 📈 Statistics
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+  <a href="https://github.com/beckysbr">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=beckysbr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beckysbr&layout=compact&langs_count=7&theme=dark"/>
+</div>
